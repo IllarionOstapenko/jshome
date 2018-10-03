@@ -21,13 +21,3 @@ const c = parseInt(prompt('Enter C'));
 
 alert(solutionQuardEq(a, b, c));
 
-// const numb = parseFloat(prompt('Enter the number of Fibonacci'));
-
-// alert("Fibonacci number: " + fib(numb));
-
-// function fib(numb){
-//     if(numb <= 1) { 
-//       return numb;
-//     }
-//     return fib(numb - 1) + fib(numb - 2);
-// }
